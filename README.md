@@ -1,11 +1,10 @@
 
 
 # 🌍 Recent Climate Isssue Analysis
-
+<img width="1024" height="1024" alt="Frame 95" src="https://github.com/user-attachments/assets/5aca266a-29e5-43c3-873d-5accec71a66e" />
 
 ---
-A global research institution is studying the impact of climate change across different regions. The institution requires a **centralized system** to:  
-<img width="1024" height="1024" alt="Frame 95" src="https://github.com/user-attachments/assets/5aca266a-29e5-43c3-873d-5accec71a66e" />
+A global research institution is studying the impact of climate change across different regions. The institution requires a **centralized system** to: <r> 
 ## **Project Overview**
 
 - 🌡️ Track key climate indicators (temperature, precipitation, air quality)  
@@ -56,7 +55,6 @@ A **data-driven climate monitoring solution** that delivers:
   - Tableau dashboards  
 
 ---
----
 
 ## **Risk Analysise**
 
@@ -64,6 +62,13 @@ A **data-driven climate monitoring solution** that delivers:
   - Infrastructure Impace  
   - Economic Hazards  
   - Extreme Events  
+
+---
+
+## **Tableu Viz**
+
+- **All kpi's and risk analytical filtering viz**  
+  - Visit Link: https://public.tableau.com/app/profile/the.bappy/viz/RecentClimateChangeAnalysis/Dashboard1  
 
 ---
 
