@@ -2266,7 +2266,7 @@
               <format attr='padding' value='10' />
             </zone-style>
           </zone>
-          <zone forceUpdate='true' h='6778' id='49' is-scaled='1' param='G:/Desktop/climate_change/9502364.png' type-v2='bitmap' w='8938' x='500' y='889'>
+          <zone forceUpdate='true' h='6778' id='49' is-scaled='1' param='G:/Desktop/climate_change/icon_used/weather_icon.png' type-v2='bitmap' w='8938' x='500' y='889'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -2304,9 +2304,9 @@
           </layout-options>
           <size maxheight='2450' minheight='2450' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='55' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='54' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
-                <zone fixed-size='53' forceUpdate='true' h='6778' id='49' is-fixed='true' is-scaled='1' param='G:/Desktop/climate_change/9502364.png' type-v2='bitmap' w='8938' x='500' y='889'>
+            <zone h='100000' id='64' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98222' id='63' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+                <zone fixed-size='53' forceUpdate='true' h='6778' id='49' is-fixed='true' is-scaled='1' param='G:/Desktop/climate_change/icon_used/weather_icon.png' type-v2='bitmap' w='8938' x='500' y='889'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -2911,7 +2911,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='34' />
+      <active id='49' />
       <simple-id uuid='{699C042A-29B0-481F-8806-686D7DA9E933}' />
     </window>
   </windows>
