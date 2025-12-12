@@ -128,9 +128,8 @@ Hard to categorize high-risk regions<br>
 **Prepared by:** theBappy  
 
 
-## **Example KPI**
+## **KPI's Example**
 
-### **1️⃣ Clean & Normalize Temperature Data**
 ```sql
 /*--------------------------------------------------------------------------------------
     1. PARAMETERS / CONFIGURATION
