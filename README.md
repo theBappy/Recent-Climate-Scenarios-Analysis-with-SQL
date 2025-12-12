@@ -59,7 +59,7 @@ A **data-driven climate monitoring solution** that delivers:
 ## **Risk Analysise**
 
 - **Tasks:**  
-  - Infrastructure Impace  
+  - Infrastructure Impact 
   - Economic Hazards  
   - Extreme Events  
 
